@@ -1,6 +1,7 @@
 ## :crystal_ball: -WISET-Clean-Code- :crystal_ball:   
-#### A Handbook of Agile Software Craftsmanship by Robert C. Martin  
-<br>
+#### A Handbook of Agile Software Craftsmanship by Robert C. Martin    
+
+
 ### :books: 목차
 * [1장 | 깨끗한 코드](./chapter_01/summary_01.md)  
 * [2장 | 의미 있는 이름](./chapter_02/summary_02.md)  
