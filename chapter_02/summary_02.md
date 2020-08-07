@@ -30,7 +30,7 @@ ex> 'hp', 'aix', 'sco'  <br><br>
 * 연속된 숫자를 덧붙이거나 불용어를 추가하는 방식은 적합하지 않다.  
 * 불용어를 사용하더라도 의미가 분명히 다르면 사용해도 무방하다.  
 * getActiveAccount() , getActiveAccounts() , getActiveAccountInfo()  
-> 어느 함수를 호출해야 할지 의미가 구분이 가지 않음.<br><br>
+> 어느 함수를 호출해야 할지 의미가 구분이 가지 않음.<br>
 
 
 ## :paperclip: 발음하기 쉬운 이름을 사용하라 <br><br>
@@ -39,7 +39,7 @@ ex> 'hp', 'aix', 'sco'  <br><br>
 * 문자 하나를 사용하는 이름과 상수는 텍스트 코드에서 쉽게 눈에 띄지 않음.  
 ex> WORK_DAYS_PER_WEEK = 5  
 > 그냥 상수 5를 사용했더라면 5가 들어가는 이름을 모두 찾았을 것임.  
-> 반면에, WORK_DAYS_PER_WEEK는 검색하기 쉽다.<br><br>
+> 반면에, WORK_DAYS_PER_WEEK는 검색하기 쉽다.<br>
 
 
 ## :paperclip: 인코딩을 피하라 <br><br>
