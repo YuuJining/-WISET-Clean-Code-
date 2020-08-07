@@ -1,6 +1,6 @@
 ## :bookmark_tabs: -WISET-Clean-Code-  
 
-* [1장 | 깨끗한 코드]  
+* [1장 | 깨끗한 코드]  (./chapter_01/summary_01)
 * [2장 | 의미 있는 이름]  
 * [3장 | 함수]
 * [4장 | 주석]
