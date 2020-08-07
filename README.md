@@ -1,5 +1,7 @@
-## :bookmark_tabs: -WISET-Clean-Code-  
+## :crystal_ball: -WISET-Clean-Code- :crystal_ball:   
+<br>
 
+### :books: 목차
 * [1장 | 깨끗한 코드](./chapter_01/summary_01.md)  
 * [2장 | 의미 있는 이름](./chapter_02/summary_02.md)  
 * [3장 | 함수]
