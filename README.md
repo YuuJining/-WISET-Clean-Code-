@@ -1,7 +1,7 @@
 ## :bookmark_tabs: -WISET-Clean-Code-  
 
-* [1장 | 깨끗한 코드](./chapter_01/summary_01)
-* [2장 | 의미 있는 이름]  
+* [1장 | 깨끗한 코드](./chapter_01/summary_01.md)  
+* [2장 | 의미 있는 이름](./chapter_02/summary_02.md)  
 * [3장 | 함수]
 * [4장 | 주석]
 * [5장 | 형식 맞추기]
