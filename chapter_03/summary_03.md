@@ -66,7 +66,7 @@
     ex> writeField(name)   
 > 함수 이름에 키워드를 추가 함으로써 인수 순서를 기억하지 않아도 된다.   
     ex> assertEqulas -> assertExpectedEqualsActual(expected, actual)   
-<br><br>
+<br>
 
 
 ## :page_facing_up: 부수 효과를 일으키지 마라  
