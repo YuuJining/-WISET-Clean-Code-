@@ -6,7 +6,7 @@
 * 블록과 들여쓰기   
 > if문 / else문 / while 문 등에 들어가는 블록은 한 줄이어야 한다   
     -> 이 곳에서 함수를 호출
-<br><br>
+<br>
 
 
 ## :page_facing_up: 한 가지만 해라   
@@ -14,7 +14,7 @@
 * 한 가지라 함은 무엇인가?   
 > 추상화 수준이 하나인 단계만 수행한다면 그 함수는 한 가지 작업을 한다.  
 > 한 가지 섹션만 가지고 있다.
-<br><br>
+<br>
 
 
 ## :page_facing_up: 함수 당 추상화 수준은 하나로   
@@ -66,7 +66,7 @@
     ex> writeField(name)   
 > 함수 이름에 키워드를 추가 함으로써 인수 순서를 기억하지 않아도 된다.   
     ex> assertEqulas -> assertExpectedEqualsActual(expected, actual)   
-<br><br>
+<br>
 
 
 ## :page_facing_up: 부수 효과를 일으키지 마라  
