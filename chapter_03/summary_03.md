@@ -1,4 +1,4 @@
-# :blush: 2장 . 함수<br><br>
+# :blush: 3장 . 함수<br><br>
 
 
 ## :page_facing_up: 작게 만들어라   
